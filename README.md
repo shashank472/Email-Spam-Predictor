@@ -6,8 +6,8 @@ In this project I have built a website which can take text as an input and predi
 
 Download the above project and then follow the following steps
 
-1)Go to the frontend folder and type npm install (This will install the required dependencies)
-2)Type npm start (This will start the frontend)
+1)Go to the frontend folder and type npm install (This will install the required dependencies)<br />
+2)Type npm start (This will start the frontend)<br />
 3)Go to the prediction_Api folder and then type python app.py (This will start the api)
 
 
